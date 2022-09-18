@@ -1,0 +1,31 @@
+export default function loadAssets(){
+  loadPedit("saw", "sprites/saw.pedit");
+  loadPedit("cursor", "sprites/cursor.pedit");
+  loadPedit("play button", "sprites/play button.pedit");
+  loadPedit("health", "sprites/health.pedit");
+  loadPedit("backstory", "sprites/backstory.pedit");
+  loadPedit("player", "sprites/player.pedit");
+  loadPedit("health", "sprites/health.pedit");
+  loadPedit("health", "sprites/health.pedit");
+  loadPedit("stone", "sprites/stone.pedit");
+  loadPedit("shard of big crystal", "sprites/shard of big crystal.pedit");
+  loadPedit("grass", "sprites/grass.pedit");
+  loadPedit("laser", "sprites/laser.pedit");
+  loadPedit("laserbuttondirt", "sprites/laserbuttondirt.pedit");
+  loadPedit("dirt", "sprites/dirt.pedit");
+  loadPedit("bgblue", "sprites/bgblue.pedit");
+  loadPedit("lava", "sprites/lava.pedit");
+  loadPedit("bullet", "sprites/bullet.pedit");
+  loadPedit("spikydirt", "sprites/spikydirt.pedit");
+  loadPedit("enemy0", "sprites/enemy0.pedit");
+  loadPedit("gun", "sprites/gun.pedit");
+  loadPedit("wizard", "sprites/wizard.pedit");
+  loadPedit("box", "sprites/box.pedit");
+  loadPedit("boxbutton", "sprites/boxbutton.pedit");
+  loadPedit("cutscene", "sprites/cutscene.pedit");
+
+  loadSound("bug", "sounds/bug.mp3");
+  loadSound("danger", "sounds/danger.mp3");
+  loadSound("theme", "sounds/5252012905594880.wav");
+  loadSound("explode", "sounds/explode.mp3");
+};
